@@ -2,6 +2,7 @@
 title: "Mensousai Mugen - Wafu Tsukemen Dipping Ramen"
 date: 2023-06-24
 ---
+![Mugen Ramen](./Images/MugenRamen-WafuTsukemen.jpg)
 #### Overall thoughts on Ramen
 In this section I talk about my history with ramen, to hopefully give an underlying base for my review. This is completely my opinion, but I may insult certain ramen chains that exist in Melbourne. Feel free to skip this section if you want.
 
