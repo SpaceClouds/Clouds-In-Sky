@@ -1,6 +1,7 @@
 ---
 title: "Mensousai Mugen - Wafu Tsukemen Dipping Ramen"
 date: 2023-06-24
+category: Food
 ---
 ![Mugen Ramen](/Images/MugenRamen-WafuTsukemen.jpg)
 #### Overall thoughts on Ramen

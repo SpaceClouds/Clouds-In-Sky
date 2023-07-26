@@ -1,6 +1,7 @@
 ---
 title: "Piccolina Gelateria - Vanilla Gelato"
 date: 2023-07-07
+category: Ice Cream
 ---
 Piccolina  was next on my list to visit - I had actually never been, but in the middle of hardware lane, it is always bustling and busy!
 
