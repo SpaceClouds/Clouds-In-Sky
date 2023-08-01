@@ -1,0 +1,11 @@
+---
+layout: page
+permalink: /bubble-tea/
+title: Bubble Tea
+---
+
+<div id="archives">
+{% for post in site.categories.Bubble-Tea %}
+    <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+{% endfor %}
+</div>
