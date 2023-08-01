@@ -2,3 +2,4 @@ theme: minima
 title: "Clouds in Sky"
 description: "There are as many places to try as clouds in the sky"
 author: "SpaceClouds"
+baseurl: /clouds-in-sky
