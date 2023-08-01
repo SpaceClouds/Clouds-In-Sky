@@ -3,7 +3,7 @@ title: "Mensousai Mugen - Wafu Tsukemen Dipping Ramen"
 date: 2023-06-24
 category: Food
 ---
-![Mugen Ramen](/Images/MugenRamen-WafuTsukemen.jpg)
+
 #### Overall thoughts on Ramen
 In this section I talk about my history with ramen, to hopefully give an underlying base for my review. This is completely my opinion, but I may insult certain ramen chains that exist in Melbourne. Feel free to skip this section if you want.
 
@@ -11,6 +11,8 @@ In terms of Ramen, after trying it when visiting Japan, the options in Melbourne
 
 #### Introduction
 I recently had the chance to try [Mensousai Mugen](http://www.mensousaimugen.com/) via an recommendation from a ramen enthusiast. I have always preferred Shoyu Ramen over Tonkotsu, which seems to be much more popular in Melbourne, so I was excited to be able to get a good shoyu without having to travel back to Japan! Located off Flinders Lane, it is a little bit difficult to find this establishment. However, it seems to be popular - I arrived approximately 10 minutes after it opened at 6pm, and most of the bottom floor was already filled. They also seemingly don't take bookings - walk-ins only. I tried the Wafu Tsukemen - Dipping Ramen, which was a Dashi and Soy sauce based broth. I chose the Tsukemen variant as I had never tried that before.
+
+![Mugen Ramen](/clouds-in-sky/Images/MugenRamen-WafuTsukemen.jpg)
 
 ![Mugen Wafu Tsukemen](https://github.com/SpaceClouds/Clouds-In-Sky/blob/master/Images/MugenRamen-WafuTsukemen.jpg)
 
