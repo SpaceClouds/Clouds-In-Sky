@@ -1,0 +1,11 @@
+---
+layout: page
+permalink: /ice-cream/
+title: Ice Cream
+---
+
+<div id="archives">
+{% for post in site.categories.Ice-Cream %}
+    <li><span>{{ post.date | date_to_string }}</span> &nbsp; <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></li>
+{% endfor %}
+</div>
