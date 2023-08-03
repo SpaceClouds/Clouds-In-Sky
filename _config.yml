@@ -8,7 +8,7 @@ excerpt_separator: <!--more-->
 
 header_pages: 
   - about.md
-  - bubble-tea.html
-  - food.html
-  - ice-cream.html
+  - Categories/bubble-tea.html
+  - Categories/food.html
+  - Categories/ice-cream.html
   - categories.html
